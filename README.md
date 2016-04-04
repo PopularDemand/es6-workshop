@@ -1,9 +1,3 @@
-- `git clone https://github.com/newswim/es6-starting-point.git`
+Work from ES6 workshop by Techmill Denton
 
-- `cd es6-starting-point` (or whatever you've decided to name the project folder)
-
-- `npm install`
-
-- slides : [slides.com/danielminshew/es6-deck](slides.com/danielminshew/es6-deck)
-
-- Huge thanks to Tom Kelly (@tmkelly28) whose content I ~~borrowed~~ stole.
+Originally cloned from https://github.com/newswim/es6-starting-point
