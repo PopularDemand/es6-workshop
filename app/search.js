@@ -1,4 +1,4 @@
-import * as http frpm 'http';
+import * as http from 'http';
 
 export default function search (rl, done) {
 	rl.question('Enter an artist to search for > ', bandName => {
